@@ -11,3 +11,6 @@ Technologies Used:
 HTML: For the structure of the game board and interface.
 CSS: To style the game board and make the UI visually appealing.
 JavaScript: To handle game logic, including player moves, win detection, and game state management.
+
+![Screenshot (197)](https://github.com/user-attachments/assets/9597e2fd-3a36-4204-a4ee-784314c1a54a)
+
