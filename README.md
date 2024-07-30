@@ -1,4 +1,5 @@
-#Simple Tic-Tac-Toe Game
+# Simple Tic-Tac-Toe Game
+
 This is a straightforward implementation of the classic Tic-Tac-Toe game, designed to provide a quick and engaging experience for players of all ages. The game allows two players to take turns placing their symbols (X and O) on a 3x3 grid, aiming to be the first to align three of their symbols horizontally, vertically, or diagonally.
 
 Key Features:
